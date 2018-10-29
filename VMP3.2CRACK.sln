@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "crack", "crack\crack.vcxproj", "{5BCC7030-4CF6-41B4-B53D-7ABB23708032}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gen", "gen\gen.vcxproj", "{EECC7950-6D2E-4B5E-ACD3-571ADC4DBDAC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "launch", "launch\launch.vcxproj", "{33FE0DAC-4FD0-4A5F-AAF1-F317B8BEFECC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test_src\test.vcxproj", "{E9ED54E7-9F52-4FC4-9435-003CDBC01046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		RSA-N Debug|Win32 = RSA-N Debug|Win32
+		RSA-N Release|Win32 = RSA-N Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BCC7030-4CF6-41B4-B53D-7ABB23708032}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5BCC7030-4CF6-41B4-B53D-7ABB23708032}.Debug|Win32.Build.0 = Debug|Win32
+		{5BCC7030-4CF6-41B4-B53D-7ABB23708032}.Release|Win32.ActiveCfg = Release|Win32
+		{5BCC7030-4CF6-41B4-B53D-7ABB23708032}.Release|Win32.Build.0 = Release|Win32
+		{5BCC7030-4CF6-41B4-B53D-7ABB23708032}.RSA-N Debug|Win32.ActiveCfg = RSA-N Debug|Win32
+		{5BCC7030-4CF6-41B4-B53D-7ABB23708032}.RSA-N Debug|Win32.Build.0 = RSA-N Debug|Win32
+		{5BCC7030-4CF6-41B4-B53D-7ABB23708032}.RSA-N Release|Win32.ActiveCfg = RSA-N Release|Win32
+		{5BCC7030-4CF6-41B4-B53D-7ABB23708032}.RSA-N Release|Win32.Build.0 = RSA-N Release|Win32
+		{EECC7950-6D2E-4B5E-ACD3-571ADC4DBDAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EECC7950-6D2E-4B5E-ACD3-571ADC4DBDAC}.Debug|Win32.Build.0 = Debug|Win32
+		{EECC7950-6D2E-4B5E-ACD3-571ADC4DBDAC}.Release|Win32.ActiveCfg = Release|Win32
+		{EECC7950-6D2E-4B5E-ACD3-571ADC4DBDAC}.Release|Win32.Build.0 = Release|Win32
+		{EECC7950-6D2E-4B5E-ACD3-571ADC4DBDAC}.RSA-N Debug|Win32.ActiveCfg = Debug|Win32
+		{EECC7950-6D2E-4B5E-ACD3-571ADC4DBDAC}.RSA-N Debug|Win32.Build.0 = Debug|Win32
+		{EECC7950-6D2E-4B5E-ACD3-571ADC4DBDAC}.RSA-N Release|Win32.ActiveCfg = Release|Win32
+		{EECC7950-6D2E-4B5E-ACD3-571ADC4DBDAC}.RSA-N Release|Win32.Build.0 = Release|Win32
+		{33FE0DAC-4FD0-4A5F-AAF1-F317B8BEFECC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{33FE0DAC-4FD0-4A5F-AAF1-F317B8BEFECC}.Debug|Win32.Build.0 = Debug|Win32
+		{33FE0DAC-4FD0-4A5F-AAF1-F317B8BEFECC}.Release|Win32.ActiveCfg = Release|Win32
+		{33FE0DAC-4FD0-4A5F-AAF1-F317B8BEFECC}.Release|Win32.Build.0 = Release|Win32
+		{33FE0DAC-4FD0-4A5F-AAF1-F317B8BEFECC}.RSA-N Debug|Win32.ActiveCfg = RSA-N Debug|Win32
+		{33FE0DAC-4FD0-4A5F-AAF1-F317B8BEFECC}.RSA-N Debug|Win32.Build.0 = RSA-N Debug|Win32
+		{33FE0DAC-4FD0-4A5F-AAF1-F317B8BEFECC}.RSA-N Release|Win32.ActiveCfg = RSA-N Release|Win32
+		{33FE0DAC-4FD0-4A5F-AAF1-F317B8BEFECC}.RSA-N Release|Win32.Build.0 = RSA-N Release|Win32
+		{E9ED54E7-9F52-4FC4-9435-003CDBC01046}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9ED54E7-9F52-4FC4-9435-003CDBC01046}.Debug|Win32.Build.0 = Debug|Win32
+		{E9ED54E7-9F52-4FC4-9435-003CDBC01046}.Release|Win32.ActiveCfg = Release|Win32
+		{E9ED54E7-9F52-4FC4-9435-003CDBC01046}.Release|Win32.Build.0 = Release|Win32
+		{E9ED54E7-9F52-4FC4-9435-003CDBC01046}.RSA-N Debug|Win32.ActiveCfg = Debug|Win32
+		{E9ED54E7-9F52-4FC4-9435-003CDBC01046}.RSA-N Debug|Win32.Build.0 = Debug|Win32
+		{E9ED54E7-9F52-4FC4-9435-003CDBC01046}.RSA-N Release|Win32.ActiveCfg = Release|Win32
+		{E9ED54E7-9F52-4FC4-9435-003CDBC01046}.RSA-N Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
